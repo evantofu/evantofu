@@ -1,5 +1,4 @@
-# Evan Fu
-Statistics & Data Science · software engineering · car enthusiast
+# Hey there!
 
 I’m a Statistics and Data Science student interested in software engineering and applied AI. My work spans AI agents, data pipelines, full-stack applications, and 3D geospatial visualization.
 
